@@ -1,0 +1,7 @@
+com.example.hafta9_for_dongusu_2.test.app-androidTest-0 D:\mobilUygulamalarKodlar\Hafta9_for_dongusu_2\app\build\generated\res\resValues\androidTest\debug
+com.example.hafta9_for_dongusu_2.test.app-androidTest-1 D:\mobilUygulamalarKodlar\Hafta9_for_dongusu_2\app\build\generated\res\rs\androidTest\debug
+com.example.hafta9_for_dongusu_2.test.app-mergeDebugAndroidTestResources-2 D:\mobilUygulamalarKodlar\Hafta9_for_dongusu_2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.hafta9_for_dongusu_2.test.app-mergeDebugAndroidTestResources-3 D:\mobilUygulamalarKodlar\Hafta9_for_dongusu_2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.hafta9_for_dongusu_2.test.app-merged_res-4 D:\mobilUygulamalarKodlar\Hafta9_for_dongusu_2\app\build\intermediates\merged_res\debugAndroidTest
+com.example.hafta9_for_dongusu_2.test.app-androidTest-5 D:\mobilUygulamalarKodlar\Hafta9_for_dongusu_2\app\src\androidTest\res
+com.example.hafta9_for_dongusu_2.test.app-androidTestDebug-6 D:\mobilUygulamalarKodlar\Hafta9_for_dongusu_2\app\src\androidTestDebug\res
